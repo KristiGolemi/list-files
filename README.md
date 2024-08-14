@@ -1,0 +1,1 @@
+This project contains a very simple API which reads all files within a folder and after that it returns all files titles in a list.
